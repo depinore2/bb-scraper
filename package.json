@@ -1,0 +1,23 @@
+{
+  "name": "bb-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depinore2/bb-scraper.git"
+  },
+  "author": "Edgar Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/depinore2/bb-scraper/issues"
+  },
+  "homepage": "https://github.com/depinore2/bb-scraper#readme",
+  "dependencies": {
+    "axios": "0.21.1",
+    "jsdom": "16.6.0"
+  }
+}
